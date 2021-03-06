@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="introText">On a scale of 1 - 10, how are you?</string>
+</resources>
